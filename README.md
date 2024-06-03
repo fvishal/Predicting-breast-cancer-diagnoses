@@ -1,5 +1,9 @@
-HW2_code.ipynb: Jupyter Notebook containing the Python code used to build and evaluate the k-NN and Logistic Regression models for predicting breast cancer diagnoses.
-HW2_Data.csv: Dataset used for the analysis, including features such as radius, texture, perimeter, area, and more physiological characteristics.
-HW2.docx: Detailed report explaining the methodology, data exploration, model building, and evaluation steps taken in the project.
-HW2_pdf_part1.pdf: PDF version of the first part of the report, including Python code snippets and model evaluations.
-HW2_pdf_Part2.pdf: PDF version of the second part of the report, including RapidMiner screenshots and model evaluations.
+The project involves creating predictive models to classify breast cancer cases as benign or malignant. The analysis includes:
+
+Data Exploration: Understanding and preparing the dataset by reporting summary statistics and correlation matrix.
+Model Building in Python:
+k-NN Model: Implementing the k-Nearest Neighbors algorithm to predict cancer diagnoses.
+Logistic Regression Model: Using Logistic Regression to classify cancer cases.
+Model Evaluation in Python: Comparing the k-NN and Logistic Regression models based on confusion matrix, accuracy, precision, recall, and F1-score to determine the best-performing model.
+Model Building in RapidMiner: Replicating the k-NN and Logistic Regression models in RapidMiner and comparing their performance with the Python implementation.
+The project aims to provide insights into the effectiveness of different classification techniques for predicting breast cancer diagnoses, helping in the early detection and treatment of the disease.
